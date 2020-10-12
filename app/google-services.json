@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "394734959523",
+    "firebase_url": "https://mvvmagic-4fa33.firebaseio.com",
+    "project_id": "mvvmagic-4fa33",
+    "storage_bucket": "mvvmagic-4fa33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394734959523:android:c4beb7f9e277c341deb816",
+        "android_client_info": {
+          "package_name": "com.example.fragmenttask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394734959523-9jeb0n5gr0n5v5f9d4bhj6g6fh8ic1v5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fragmenttask",
+            "certificate_hash": "f836adb88f348fb9eb413f21833a506a64c3b589"
+          }
+        },
+        {
+          "client_id": "394734959523-l0ilnqi7sadrusuhksc5p5r25d6mmljd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDguyREIEAgBQFR3GEiFtWuHsH6I5m-0pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394734959523-l0ilnqi7sadrusuhksc5p5r25d6mmljd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
