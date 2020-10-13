@@ -36,3 +36,5 @@ fun createGetNewsListUseCase(listRepository: ListRepository): GetListUseCase {
 fun createNewsRepo(apiInterface: ApiInterface): ListRepository {
     return ListRepositoryImpl(apiInterface)
 }
+
+//This is a change
